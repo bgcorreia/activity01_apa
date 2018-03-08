@@ -23,7 +23,7 @@ public:
 	}
 
 	void ajuda(){
-		cout<<"\nUso: ./ordenacao [OPÇÕES]\n\nOPÇÕES:\n\n -t [is|ss]     Tipo da Ordenação. P/ InsertionSort -> IS , SelectionSort -> SS.\n\n                        Ex.: -t is | -t ss\n\n -i [Arquivo]   Defini o arquivo deentrada, com os valores a seremordenados.\n\n                        Ex.: -i ./couting.txt | -i ~/ordenar.txt\n\n\n -h      Mostra esta tela de ajuda e sai\n -v      Mostra a versão do programa e sai\n\n\nExemplo completo de uso:\n\n./ordenacao -t ss -i entrada.txt\n\n";
+		cout<<"\nUso: ./ordenacao [OPÇÕES]\n\nOPÇÕES:\n\n -t [is|ss]     Tipo da Ordenação. P/ InsertionSort -> IS , SelectionSort -> SS.\n\n                        Ex.: -t is | -t ss\n\n -i [Arquivo]   Define o arquivo deentrada, com os valores a serem ordenados.\n\n                        Ex.: -i ./couting.txt | -i ~/ordenar.txt\n\n\n -h      Mostra esta tela de ajuda e sai\n -v      Mostra a versão do programa e sai\n\n\nExemplo completo de uso:\n\n./ordenacao -t ss -i entrada.txt\n\n";
 	}
 
 	void erro(){
