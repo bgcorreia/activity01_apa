@@ -31,7 +31,7 @@ OPÇÕES:
 
                         Ex.: -t is | -t ss
 
- -i [Arquivo]   Defini o arquivo de entrada, com os valores a seremordenados.
+ -i [Arquivo]   Define o arquivo de entrada, com os valores a serem ordenados.
 
                         Ex.: -i ./couting.txt | -i ~/ordenar.txt
                         
