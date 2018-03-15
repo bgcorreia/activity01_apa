@@ -11,9 +11,9 @@ To compile/linker execute `make` in the clone directory.
 Example:
 
 ```bash
-user@host:~/activity01-apa$ make
+user@host:~/activity01_apa$ make
 Compilando arquivo objeto: ordenacao
-user@host:~/activity01-apa$
+user@host:~/activity01_apa$
 ```
 
 ## Execution
@@ -21,7 +21,7 @@ user@host:~/activity01-apa$
 Then, execute the generated binary:
 
 ```bash
-user@host:~/activity01-apa$ ./ordenacao -h
+user@host:~/activity01_apa$ ./ordenacao -h
 
 Uso: ./ordenacao [OPÇÕES]
 
